@@ -4,7 +4,7 @@
       "name": "copier-typescript-npm-sphinx",
       "path": "../copier-typescript-npm-sphinx",
       "type": "copier",
-      "version": "7c1846cbc28d0edc30ed3116d614b40a",
+      "version": "5beb3f1ffa03ea74394ffae2d566bab9",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -16,15 +16,15 @@
       "name": "copier-typescript-npm-sphinx",
       "data": {
         "package_name": "@typescript-npm-sphinx/example",
-        "repo_name": "@typescript-npm-sphinx/example",
-        "full_name": "typescript-npm-sphinx-example",
+        "repo_name": "typescript-npm-sphinx-organization-example",
+        "full_name": "typescript-npm-sphinx-organization-example",
         "short_description": "Example template output for copier-typescript-npm-sphinx with organization",
         "main_branch_name": "main",
         "author": "Nick DeRobertis",
         "repo_username": "nickderobertis",
         "package_filename": "@typescript-npm-sphinx-example"
       },
-      "version": "7c1846cbc28d0edc30ed3116d614b40a",
+      "version": "5beb3f1ffa03ea74394ffae2d566bab9",
       "add_mode": "local",
       "root": "."
     }

@@ -1,4 +1,4 @@
-# typescript-npm-sphinx-example
+# typescript-npm-sphinx-organization-example
 
 [![npm package][npm-img]][npm-url]
 [![Build Status][build-img]][build-url]
@@ -42,16 +42,16 @@ The library files are stored in `src`, while the files for the development page 
 
 Created by Nick DeRobertis. MIT License.
 
-[build-img]:https://github.com/nickderobertis/@typescript-npm-sphinx/example/actions/workflows/release.yml/badge.svg
-[build-url]:https://github.com/nickderobertis/@typescript-npm-sphinx/example/actions/workflows/release.yml
+[build-img]:https://github.com/nickderobertis/typescript-npm-sphinx-organization-example/actions/workflows/release.yml/badge.svg
+[build-url]:https://github.com/nickderobertis/typescript-npm-sphinx-organization-example/actions/workflows/release.yml
 [downloads-img]:https://img.shields.io/npm/dt/@typescript-npm-sphinx/example
 [downloads-url]:https://www.npmtrends.com/@typescript-npm-sphinx/example
 [npm-img]:https://img.shields.io/npm/v/@typescript-npm-sphinx/example
 [npm-url]:https://www.npmjs.com/package/@typescript-npm-sphinx/example
-[issues-img]:https://img.shields.io/github/issues/nickderobertis/@typescript-npm-sphinx/example
-[issues-url]:https://github.com/nickderobertis/@typescript-npm-sphinx/example/issues
-[codecov-img]:https://codecov.io/gh/nickderobertis/@typescript-npm-sphinx/example/branch/main/graph/badge.svg
-[codecov-url]:https://codecov.io/gh/nickderobertis/@typescript-npm-sphinx/example
+[issues-img]:https://img.shields.io/github/issues/nickderobertis/typescript-npm-sphinx-organization-example
+[issues-url]:https://github.com/nickderobertis/typescript-npm-sphinx-organization-example/issues
+[codecov-img]:https://codecov.io/gh/nickderobertis/typescript-npm-sphinx-organization-example/branch/main/graph/badge.svg
+[codecov-url]:https://codecov.io/gh/nickderobertis/typescript-npm-sphinx-organization-example
 [semantic-release-img]:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release-url]:https://github.com/semantic-release/semantic-release
 [commitizen-img]:https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
