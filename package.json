@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickderobertis/@typescript-npm-sphinx/example.git"
+    "url": "git+https://github.com/nickderobertis/typescript-npm-sphinx-organization-example.git"
   },
   "license": "MIT",
   "author": {
@@ -51,9 +51,9 @@
     "codecov"
   ],
   "bugs": {
-    "url": "https://github.com/nickderobertis/@typescript-npm-sphinx/example/issues"
+    "url": "https://github.com/nickderobertis/typescript-npm-sphinx-organization-example/issues"
   },
-  "homepage": "https://github.com/nickderobertis/@typescript-npm-sphinx/example#readme",
+  "homepage": "https://github.com/nickderobertis/typescript-npm-sphinx-organization-example#readme",
   "publishConfig": {
     "access": "public"
   },

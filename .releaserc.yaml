@@ -6,4 +6,4 @@ branches:
   - name: alpha
     prerelease: true
 
-repositoryUrl: https://github.com/nickderobertis/@typescript-npm-sphinx/example
+repositoryUrl: https://github.com/nickderobertis/typescript-npm-sphinx-organization-example
